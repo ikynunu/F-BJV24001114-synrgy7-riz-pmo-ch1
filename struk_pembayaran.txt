@@ -1,0 +1,21 @@
+========================
+    Struk Pembayaran    
+    BinarFud    
+========================
+Makanan: Nasi Goreng
+Jumlah: 2
+Total Harga: Rp 30000
+
+Makanan: Mie Goreng
+Jumlah: 3
+Total Harga: Rp 39000
+
+Total Makanan Keseluruhan: 5 porsi
+Total Harga Makanan Keseluruhan: Rp 69000
+Pembayaran : BinarCash
+
+======================================
+Terima kasih Sudah Memesan di BinarFud
+======================================
+
+*simpan struk ini sebagai bukti pembayaran*
